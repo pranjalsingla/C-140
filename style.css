@@ -1,0 +1,34 @@
+.heading{
+    width: 100%;
+    font-size: 23px;
+    text-align: left;
+}
+.heading h1{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 3px dashed pink;
+}
+
+body{
+    background-size: cover;
+}
+
+#play{
+    font-size: 18px;
+}
+#restart, #status{
+    font-size: 18px;
+}
+.copy-right-footer{
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+}
+ canvas{
+    border: solid 5px whitesmoke;
+    box-shadow: 2px 2px 2px grey;
+ }
